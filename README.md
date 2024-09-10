@@ -6,7 +6,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<img align="center" src="https://komarev.com/ghpvc/?username=mugeha&style=flat-square&color=blue&align=center" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mugeha&style=flat-square&color=blue&align=center" alt=""/>
+</div>
+
 <h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
@@ -25,7 +28,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on Front End Mentor.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BPKqO3cvySqi01H5CcW9WkQ%3D%3D)])
+- :mailbox:How to reach me: [![Linkedin Badge]]([your-linkedin-url](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BPKqO3cvySqi01H5CcW9WkQ%3D%3D)])
 
 
   ---
