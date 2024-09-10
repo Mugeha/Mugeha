@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="200"/>
 </div>
 ---
 
@@ -28,7 +28,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on Front End Mentor.
 
-- :mailbox:How to reach me: [![Linkedin Badge]((https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white))]([![your-linkedin-url](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BPKqO3cvySqi01H5CcW9WkQ%3D%3D))]
+- :mailbox:How to reach me: [![Linkedin Badge]((https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white))][![your-linkedin-url](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BPKqO3cvySqi01H5CcW9WkQ%3D%3D))]
 
 
   ---
