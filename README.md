@@ -22,7 +22,7 @@
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. Learning about security frameworks, i.e OWASP.
+ :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. Learning about security frameworks, i.e OWASP. Currently following weekly updates in cybersecurity on EncryptEdge Labs page on Linkedin based in London. 
 
 - :seedling: Exploring Technical Content Writing.
 
