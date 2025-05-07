@@ -26,9 +26,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Front End Mentor, solve challenges on Hack The Box and other cool stuff.
+- :zap: In my free time, I solve problems on Front End Mentor, do challenges on Hack The Box and other cool stuff.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mugeha-jackline-b843b5215)
+- :mailbox: mugehajacky@gmail.com
 
 
   ---
