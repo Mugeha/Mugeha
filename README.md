@@ -24,6 +24,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
  :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications. Learning about security frameworks, OWASP in particular. Currently following weekly updates in cybersecurity on EncryptEdge Labs page on Linkedin based in London. Not leaving coding challenges on CS50 from Havard.
 
+All right, let's code!!
+
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on Front End Mentor, do challenges on Hack The Box and other cool stuff.
