@@ -55,6 +55,7 @@ All right, let's code!!
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+    <img src="https://portswigger.net/burp/images/burp-icon.svg" title="Burp Suite" alt="Burp Suite" width="40" height="40"/>&nbsp;
 </div>
 
 
