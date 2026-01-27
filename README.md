@@ -41,11 +41,6 @@ I am particularly interested in defensive security, SOC workflows, and applicati
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <!-- Platforms & Core Tools -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://portswigger.net/burp/images/burp-icon.svg" title="Burp Suite" alt="Burp Suite" width="40" height="40"/>&nbsp;
   <!-- AppSec & Offensive Security Tools -->
 <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" title="Metasploit"/>&nbsp;
 <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white" title="Nmap"/>&nbsp;
@@ -53,6 +48,12 @@ I am particularly interested in defensive security, SOC workflows, and applicati
 <img src="https://img.shields.io/badge/Gobuster-5A5A5A?style=for-the-badge" title="Gobuster"/>&nbsp;
 <img src="https://img.shields.io/badge/ffuf-000000?style=for-the-badge" title="ffuf"/>&nbsp;
 <img src="https://img.shields.io/badge/dirsearch-1F2937?style=for-the-badge" title="dirsearch"/>&nbsp;
+
+<!-- Mobile & OSINT -->
+<img src="https://img.shields.io/badge/MobSF-2E7D32?style=for-the-badge" title="MobSF"/>&nbsp;
+<img src="https://img.shields.io/badge/JADX-6A1B9A?style=for-the-badge" title="jadx"/>&nbsp;
+<img src="https://img.shields.io/badge/Shodan-E53935?style=for-the-badge&logo=shodan&logoColor=white" title="Shodan"/>&nbsp;
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
