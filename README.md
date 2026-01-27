@@ -77,18 +77,12 @@ I am particularly interested in defensive security, SOC workflows, and applicati
 ![WinPEAS](https://img.shields.io/badge/WinPEAS-000000?style=for-the-badge)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-2E2E2E?style=for-the-badge)
 
-<!-- Automation & DFIR -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" title="n8n" alt="n8n" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/velociraptor.svg" title="Velociraptor DFIR" alt="Velociraptor" width="40" height="40"/>&nbsp;
+![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
+![Velociraptor](https://img.shields.io/badge/Velociraptor_DFIR-2E3440?style=for-the-badge&logo=velociraptor&logoColor=white)
+![AWS CLI](https://img.shields.io/badge/AWS_CLI-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![theHarvester](https://img.shields.io/badge/theHarvester-4B5563?style=for-the-badge&logo=linux&logoColor=white)
 
-<!-- Cloud & IAM -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" title="AWS CLI" alt="AWS CLI" width="40" height="40"/>&nbsp;
-
-<!-- AppSec / Auth -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jsonwebtokens.svg" title="JWT" alt="JWT" width="40" height="40"/>&nbsp;
-
-<!-- Recon -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/theharvester.svg" title="theHarvester" alt="theHarvester" width="40" height="40"/>&nbsp;
 
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
