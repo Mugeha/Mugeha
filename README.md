@@ -19,15 +19,18 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+👋 Hi, I’m Jackie.
 
- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications. Learning about security frameworks, OWASP in particular. Currently following weekly updates in cybersecurity on EncryptEdge Labs page on Linkedin based in London. Not leaving coding challenges on HackerRank.
+I’m a Computer Science student and cybersecurity practitioner with a strong focus on **Application Security and Security Operations (SOC)**. I have hands-on experience assessing web and API security, analyzing vulnerabilities, and working in Linux and cloud environments to identify and respond to security risks.
 
-All right, let's code!!
+My training includes cloud and application security through AfricaHackon Academy, where I worked with AWS services and built secure APIs, alongside practical exposure to reconnaissance, threat modeling, vulnerability assessment, and penetration testing. I enjoy investigating how applications and systems break, validating security issues, and translating technical findings into clear, actionable reports.
+
+I am particularly interested in defensive security, SOC workflows, and application-layer threats, and I am actively building skills in alert analysis, incident response, and secure-by-design engineering.
+
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Front End Mentor, do challenges on Hack The Box and other cool stuff.
+- :zap: In my free time, I solve labs on TryHackMe, I do CTFs on PICO ctf platform.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mugeha-jackline-b843b5215)
 - :mailbox: mugehajacky@gmail.com
@@ -38,6 +41,13 @@ All right, let's code!!
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <!-- AppSec & Offensive Security Tools -->
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" title="Metasploit"/>&nbsp;
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white" title="Nmap"/>&nbsp;
+<img src="https://img.shields.io/badge/SQLMap-B30000?style=for-the-badge" title="SQLMap"/>&nbsp;
+<img src="https://img.shields.io/badge/Gobuster-5A5A5A?style=for-the-badge" title="Gobuster"/>&nbsp;
+<img src="https://img.shields.io/badge/ffuf-000000?style=for-the-badge" title="ffuf"/>&nbsp;
+<img src="https://img.shields.io/badge/dirsearch-1F2937?style=for-the-badge" title="dirsearch"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
