@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120"/>
+<img src="[https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://www.shutterstock.com/video/clip-3746942273-cyber-data-security-information-privacy-idea-big)" width="120"/>
 </div>
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/mugeha-jackline-b843b5215">
