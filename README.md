@@ -54,6 +54,15 @@ I am particularly interested in defensive security, SOC workflows, and applicati
 <img src="https://img.shields.io/badge/JADX-6A1B9A?style=for-the-badge" title="jadx"/>&nbsp;
 <img src="https://img.shields.io/badge/Shodan-E53935?style=for-the-badge&logo=shodan&logoColor=white" title="Shodan"/>&nbsp;
 
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-000000?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT.io-000000?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-1E1E1E?style=for-the-badge)
+![HTTPX](https://img.shields.io/badge/HTTPX-2E2E2E?style=for-the-badge)
+![SecLists](https://img.shields.io/badge/SecLists-2E2E2E?style=for-the-badge)
+
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -71,7 +80,6 @@ I am particularly interested in defensive security, SOC workflows, and applicati
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-    <img src="https://portswigger.net/burp/images/burp-icon.svg" title="Burp Suite" alt="Burp Suite" width="40" height="40"/>&nbsp;
 </div>
 
 
