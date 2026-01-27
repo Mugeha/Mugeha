@@ -41,6 +41,11 @@ I am particularly interested in defensive security, SOC workflows, and applicati
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <!-- Platforms & Core Tools -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://portswigger.net/burp/images/burp-icon.svg" title="Burp Suite" alt="Burp Suite" width="40" height="40"/>&nbsp;
   <!-- AppSec & Offensive Security Tools -->
 <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" title="Metasploit"/>&nbsp;
 <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white" title="Nmap"/>&nbsp;
