@@ -62,6 +62,22 @@ I am particularly interested in defensive security, SOC workflows, and applicati
 ![HTTPX](https://img.shields.io/badge/HTTPX-2E2E2E?style=for-the-badge)
 ![SecLists](https://img.shields.io/badge/SecLists-2E2E2E?style=for-the-badge)
 
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
+![Amass](https://img.shields.io/badge/Amass-000000?style=for-the-badge)
+![Findomain](https://img.shields.io/badge/Findomain-000000?style=for-the-badge)
+![Sunfinder](https://img.shields.io/badge/Sunfinder-000000?style=for-the-badge)
+![DNSenum](https://img.shields.io/badge/DNSenum-000000?style=for-the-badge)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Curl](https://img.shields.io/badge/Curl-073551?style=for-the-badge&logo=curl&logoColor=white)
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-000000?style=for-the-badge)
+![NetExec](https://img.shields.io/badge/NetExec-000000?style=for-the-badge)
+![WinPEAS](https://img.shields.io/badge/WinPEAS-000000?style=for-the-badge)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-2E2E2E?style=for-the-badge)
+
+
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
