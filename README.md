@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120"/>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="120"/>
 </div>
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/mugeha-jackline-b843b5215">
