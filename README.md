@@ -65,7 +65,7 @@ I am particularly interested in defensive security, SOC workflows, and applicati
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
 ![Amass](https://img.shields.io/badge/Amass-000000?style=for-the-badge)
 ![Findomain](https://img.shields.io/badge/Findomain-000000?style=for-the-badge)
-![Sunfinder](https://img.shields.io/badge/Sunfinder-000000?style=for-the-badge)
+![Subfinder](https://img.shields.io/badge/Subfinder-000000?style=for-the-badge)
 ![DNSenum](https://img.shields.io/badge/DNSenum-000000?style=for-the-badge)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
