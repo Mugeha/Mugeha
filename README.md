@@ -23,8 +23,6 @@
 
 I’m a Computer Science graduate and cybersecurity practitioner with a strong focus on **Application Security and Security Operations (SOC)**. I have hands-on experience assessing web and API security, analyzing vulnerabilities, and working in Linux and cloud environments to identify and respond to security risks.
 
-My training includes cloud and application security through AfricaHackon Academy, where I worked with AWS services and built secure APIs, alongside practical exposure to reconnaissance, threat modeling, vulnerability assessment, and penetration testing. I enjoy investigating how applications and systems break, validating security issues, and translating technical findings into clear, actionable reports.
-
 I am particularly interested in defensive security, SOC workflows, and application-layer threats, and I am actively building skills in alert analysis, incident response, and secure-by-design engineering.
 
 
