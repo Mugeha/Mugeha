@@ -28,7 +28,7 @@ I am particularly interested in defensive security, SOC workflows, and applicati
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve labs on TryHackMe, I do CTFs on PICO ctf platform.
+- :zap: In my free time, I solve labs on TryHackMe, Hack The Box and PortSwigger labs, I do CTFs on PICO ctf platform and Dojo(dojo.africahackon.com).
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mugeha-jackline-b843b5215)
 - :mailbox: mugehajacky@gmail.com
