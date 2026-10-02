@@ -12,8 +12,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </h1>
 <div id="header" align="center">
-  <!-- Move object-fit inside the style attribute -->
-  <img src="./linekdinlocal.jpeg" width="1200" height="300" style="object-fit: cover;"/>
+  <!-- Attributes removed, everything is handled by CSS styles now -->
+  <img src="./linekdinlocal.jpeg" style="width: 1200px; height: 300px; object-fit: cover; display: block; max-width: 100%;"/>
 </div>
 
 
