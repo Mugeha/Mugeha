@@ -1,0 +1,4 @@
+<svg viewBox="0 0 1200 300" width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- preserveAspectRatio="xMidYMid slice" works exactly like object-fit: cover -->
+  <image href="./linekdinlocal.jpeg" width="1200" height="300" preserveAspectRatio="xMidYMid slice" />
+</svg>
