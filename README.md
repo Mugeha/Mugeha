@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </h1>
 <div align="center">
-  <img src="./linekdinlocal.jpeg" width="1200" />
+  <img src="./banner.svg" width="1200" height="300" />
 </div>
 
 
