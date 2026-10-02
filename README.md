@@ -11,9 +11,8 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </h1>
-<div id="header" align="center">
-  <!-- Attributes removed, everything is handled by CSS styles now -->
-  <img src="./linekdinlocal.jpeg" style="width: 1200px; height: 300px; object-fit: cover; display: block; max-width: 100%;"/>
+<div align="center">
+  <img src="./linekdinlocal.jpeg" width="1200" />
 </div>
 
 
